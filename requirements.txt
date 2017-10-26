@@ -1,0 +1,5 @@
+scapy
+websocket
+websocket-client
+six
+git+https://github.com/dpallot/simple-websocket-server.git
